@@ -4,8 +4,8 @@ services:
     image: postgres:15
     container_name: postgres_db
     environment:
-      POSTGRES_USER: yourusername
-      POSTGRES_PASSWORD: yourpassword
-      POSTGRES_DB: yourdatabase
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123
+      POSTGRES_DB: nest
     ports:
       - "5432:5432"
