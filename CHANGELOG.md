@@ -1,4 +1,15 @@
 # 📝 Changelog
+## [0.2.0](https://github.com/lavc4645/NestJs-Basic/compare/v0.1.0...v0.2.0) (2025-05-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* **auth:** Old tokens will no longer work
+
+### ✨ Features
+
+* **auth:** switch to JWT format using other method ([1ce5d31](https://github.com/lavc4645/NestJs-Basic/commit/1ce5d31631ab42a626af2eaaca4458c18e9829c3))
+
 ## [0.1.0](https://github.com/lavc4645/NestJs-Basic/compare/v0.0.2...v0.1.0) (2025-05-02)
 
 
