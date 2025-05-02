@@ -1,0 +1,11 @@
+
+{
+  "header": "# 📝 Changelog",
+  "types": [
+    { "type": "feat", "section": "✨ Features" }, 
+    { "type": "fix", "section": "🐛 Bug Fixes" },
+    { "type": "testing", "section": "🧪 Tests" },
+    { "type": "docs", "section": "📚 Documentation" },
+    { "type": "chore", "hidden": true }
+  ]
+}
