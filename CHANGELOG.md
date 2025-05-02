@@ -1,4 +1,6 @@
 # 📝 Changelog
+### [0.2.1](https://github.com/lavc4645/NestJs-Basic/compare/v0.2.0...v0.2.1) (2025-05-02)
+
 ## [0.2.0](https://github.com/lavc4645/NestJs-Basic/compare/v0.1.0...v0.2.0) (2025-05-02)
 
 
